@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a96b87e.css",
-    "main.js": "/static/js/main.bfeceaca.js",
-    "static/js/787.e29dc422.chunk.js": "/static/js/787.e29dc422.chunk.js",
-    "static/media/mixkit-classic-click-1117.wav": "/static/media/mixkit-classic-click-1117.6b885d08b1dd5737c869.wav",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo_sub.png": "/static/media/logo_sub.19f3ab25ab15fd848b30.png",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/index.html",
-    "main.2a96b87e.css.map": "/static/css/main.2a96b87e.css.map",
-    "main.bfeceaca.js.map": "/static/js/main.bfeceaca.js.map",
-    "787.e29dc422.chunk.js.map": "/static/js/787.e29dc422.chunk.js.map"
+    "main.css": "/aditya-portfolio1/static/css/main.42f7f783.css",
+    "main.js": "/aditya-portfolio1/static/js/main.cbf725fd.js",
+    "static/js/787.e29dc422.chunk.js": "/aditya-portfolio1/static/js/787.e29dc422.chunk.js",
+    "static/media/mixkit-classic-click-1117.wav": "/aditya-portfolio1/static/media/mixkit-classic-click-1117.6b885d08b1dd5737c869.wav",
+    "static/media/helvetica-neu.ttf": "/aditya-portfolio1/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/aditya-portfolio1/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/aditya-portfolio1/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/aditya-portfolio1/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/aditya-portfolio1/index.html",
+    "main.42f7f783.css.map": "/aditya-portfolio1/static/css/main.42f7f783.css.map",
+    "main.cbf725fd.js.map": "/aditya-portfolio1/static/js/main.cbf725fd.js.map",
+    "787.e29dc422.chunk.js.map": "/aditya-portfolio1/static/js/787.e29dc422.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a96b87e.css",
-    "static/js/main.bfeceaca.js"
+    "static/css/main.42f7f783.css",
+    "static/js/main.cbf725fd.js"
   ]
 }
