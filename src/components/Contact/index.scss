@@ -1,0 +1,110 @@
+.contact-page{
+    
+    .text-zone{
+        position: absolute;
+        left:-5%;
+        top:20%;
+        
+        
+        transform: translateY(-50%);
+        width:30%;
+        vertical-align: middle;
+        max-height: 90%;
+        h1{
+            font-size:43px;
+            color:#ffd700;
+            font-weight: 400;
+            margin-top:0px;
+            position: relative;
+            margin-bottom:20px;
+            left:10px;
+            &::before{
+                content:"<h2>";
+                font-family : 'Bungee Shade';
+                font-size: 18px;
+                position: relative;
+                left:-20px;
+                opacity: 0.6;
+                line-height:18xp;
+            }
+            &::after{
+                content:"<h2>";
+                font-family : 'Bungee Shade';
+                font-size: 18px;
+                position: relative;
+                top:-60px;
+                left:400px;
+                opacity: 0.6;
+                line-height:18xp;
+            }
+
+
+
+
+
+            }
+            p{
+                color:white;
+                font-family: 'REM', sans-serif;
+                font-size:16px;
+                opacity: 1;
+                font-weight:300;
+                min-width:fit-content;
+                animation:forwards 1s;
+                position: relative;
+                top:-50px;
+                left:13%;
+
+                &:nth-of-type(1){
+                    animation-delay:1.5s;
+
+
+                }
+                &:nth-of-type(2){
+                    animation-delay:1.6s;
+                    
+
+                }
+                &:nth-of-type(3){
+                    animation-delay:1.3s;
+                    
+
+                }
+
+
+
+            }
+            
+        }
+        .text-animate-hover{
+                &:hover{
+                    color:white;
+
+                }
+        }
+
+
+    }
+
+// .contact-form{
+//     width:100%;
+//     margin-top:20px;
+//     ul{
+//         padding:0px;
+//         margin:0px;
+//         li{
+//             padding:0;
+//             margin:0px;
+//             list-style:None;
+//             margin-bottom:10px;
+//             overflow: hidden;
+//             display: block;
+//             position: relative;
+            
+//             animation: fadeInup 2s 2s;
+//             animation-fill-mode: forwards;
+
+//         }
+//     }
+// }
+

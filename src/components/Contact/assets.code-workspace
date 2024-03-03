@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../../../Downloads/assets"
+		},
+		{
+			"name": "reactportfolio",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "reactportfolio"
+	}
+}
